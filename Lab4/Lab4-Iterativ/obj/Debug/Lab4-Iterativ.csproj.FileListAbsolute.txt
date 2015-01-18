@@ -1,0 +1,6 @@
+D:\Iterativ mjukvarautveckling\Lab4\Lab4-Iterativ\bin\Debug\Lab4-Iterativ.exe.config
+D:\Iterativ mjukvarautveckling\Lab4\Lab4-Iterativ\bin\Debug\Lab4-Iterativ.exe
+D:\Iterativ mjukvarautveckling\Lab4\Lab4-Iterativ\bin\Debug\Lab4-Iterativ.pdb
+D:\Iterativ mjukvarautveckling\Lab4\Lab4-Iterativ\obj\Debug\Lab4-Iterativ.csprojResolveAssemblyReference.cache
+D:\Iterativ mjukvarautveckling\Lab4\Lab4-Iterativ\obj\Debug\Lab4-Iterativ.exe
+D:\Iterativ mjukvarautveckling\Lab4\Lab4-Iterativ\obj\Debug\Lab4-Iterativ.pdb
